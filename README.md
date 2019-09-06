@@ -1,6 +1,8 @@
 # pandas-challenge
 
-The project is an analysis for an independent gaming company using Pandas Library and Jupyter Notebook. The task is to analyze the most recent fantasy game called Heroes of Pymoli.
+The HeroesofPymoli project:
+
+This is an analysis for an independent gaming company using Pandas Library and Jupyter Notebook. The task is to analyze the most recent fantasy game called Heroes of Pymoli.
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. 
 
@@ -80,3 +82,6 @@ Item Name
 Purchase Count
 Item Price
 Total Purchase Value
+
+This is an analysis for a city's school district. I'm helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
+The task is to analyze the district-wide standardized test results, as well as various information on the schools they attend. I aggregated the data to and showcase obvious trends in school performance.
